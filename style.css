@@ -1,5 +1,9 @@
 /* Style sheet for the odin project Recipes assignment */
 
+* {
+    background-color: rgb(51, 49, 49); color:white;
+}
+
 h1 {
     margin: 0 0 20px 0px;
     text-align: center;
